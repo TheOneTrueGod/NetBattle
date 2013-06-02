@@ -1,0 +1,73 @@
+UNIT	EVLTION	LEV/NAT	VAL	LEV/NAT	VAL	...
+Behold0	Behold1	LEV	5
+Behold1	Behold2	LEV	16
+Behold2	Behold3	LEV	30
+Behold3	Behold4	LEV	39
+Behold4	Behold5	LEV	50
+Behold1	Behold2	LEV	13	NAT	OFF
+Behold2	Behold3	LEV	24	NAT	OFF
+Behold3	Behold4	LEV	31	NAT	OFF
+Behold4	Behold5	LEV	40	NAT	OFF
+
+Bunny0	Bunny1	LEV	5
+Bunny1	Bunny2	LEV	17
+Bunny2	Bunny3	LEV	35
+Bunny3	Bunny4	LEV	53
+Bunny1	Bunny2	LEV	14	NAT	SPE
+Bunny2	Bunny3	LEV	28	NAT	SPE
+Bunny3	Bunny4	LEV	42	NAT	SPE
+
+Spikey0	Spikey1	LEV	5
+Spikey1	Spikey2	LEV	16
+Spikey2	Spikey3	LEV	27
+Spikey3	Spikey4	LEV	40
+Spikey4	Spikey5	LEV	54
+Spikey1	Spikey2	LEV	13	NAT	OFF
+Spikey2	Spikey3	LEV	22	NAT	OFF
+Spikey3	Spikey4	LEV	32	NAT	OFF
+Spikey4	Spikey5	LEV	43	NAT	OFF
+
+Angel0	Devil1	LEV	5	NAT	OFF
+Angel0	Devil1	LEV	5	NAT	DEF
+Angel0	Angel1	LEV	5
+Angel1	Angel2	LEV	17
+Angel2	Angel3	LEV	35
+Angel3	Angel4	LEV	53
+Angel1	Angel2	LEV	14	NAT	STA
+Angel2	Angel3	LEV	28	NAT	STA
+Angel3	Angel4	LEV	42	NAT	STA
+
+Devil0	Angel1	LEV	5	NAT	SPE
+Devil0	Angel1	LEV	5	NAT	STA
+Devil0	Devil1	LEV	5
+Devil1	Devil2	LEV	23
+Devil2	Devil3	LEV	37
+Devil3	Devil4	LEV	51
+Devil1	Devil2	LEV	18	NAT	OFF
+Devil2	Devil3	LEV	30	NAT	OFF
+Devil3	Devil4	LEV	41	NAT	OFF
+
+Rocky0	Rocky1	LEV	5
+Rocky1	Rocky2	LEV	19
+Rocky2	Rocky3	LEV	33
+Rocky3	Rocky4	LEV	46
+Rocky4	Rocky5	LEV	57
+Rocky1	Rocky2	LEV	15 NAT DEF
+Rocky2	Rocky3	LEV	26 NAT DEF
+Rocky3	Rocky4	LEV	37 NAT DEF
+Rocky4	Rocky5	LEV	45 NAT DEF
+
+Stumps0	Stumps1	LEV	5
+Stumps1	Stumps2	LEV	17
+Stumps2	Stumps3	LEV	31
+Stumps3	Stumps4	LEV	44
+Stumps1	Stumps2	LEV	14 NAT CON
+Stumps2	Stumps3	LEV	25 NAT CON
+Stumps3	Stumps4	LEV	35 NAT CON
+
+Frost0	Frost1	LEV	5
+Frost1	Frost2	LEV	17
+Frost2	Frost3	LEV	35
+Frost3	Frost4	LEV	53
+
+Blanky0	Blanky1	LEV	20

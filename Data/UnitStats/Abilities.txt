@@ -1,0 +1,57 @@
+UNIT LEVEL ABILITY LEVEL ABILITY etc
+Spikey0 1 None
+Spikey1 1 Bite
+Spikey2 1 Bite
+Spikey3 1 Bite
+Spikey4 1 Bite
+Spikey5 1 Bite
+
+Bunny0 1 None
+Bunny1 1 Bite 1 CuteLook 1 RapidSlash 8 Scratch 12 FirstAid
+Bunny2 1 Bite 1 CuteLook 1 RapidSlash 8 Scratch 12 FirstAid
+Bunny3 1 Bite 1 CuteLook 1 RapidSlash 8 Scratch 12 FirstAid
+Bunny4 1 Bite 1 CuteLook 1 RapidSlash 8 Scratch 12 FirstAid
+
+Angel0 1 None
+Angel1 1 Tackle 1 FirstAid
+Angel2 1 Tackle 1 FirstAid
+Angel3 1 Tackle 1 FirstAid
+Angel4 1 Tackle 1 FirstAid
+
+Behold0 1 None
+Behold1 1 ShockRay 7 FrostRay 9 FireRay 11 PainRay 15 LightningRay 20 FreezingRay 25 BurningRay 28 CripplingRay 35 EyeOfChaos
+Behold2 1 ShockRay 7 FrostRay 9 FireRay 11 PainRay 15 LightningRay 20 FreezingRay 25 BurningRay 28 CripplingRay 35 EyeOfChaos
+Behold3 1 ShockRay 7 FrostRay 9 FireRay 11 PainRay 15 LightningRay 20 FreezingRay 25 BurningRay 28 CripplingRay 35 EyeOfChaos
+Behold4 1 ShockRay 7 FrostRay 9 FireRay 11 PainRay 15 LightningRay 20 FreezingRay 25 BurningRay 28 CripplingRay 35 EyeOfChaos
+Behold5 1 ShockRay 7 FrostRay 9 FireRay 11 PainRay 15 LightningRay 20 FreezingRay 25 BurningRay 28 CripplingRay 35 EyeOfChaos
+
+Devil0 1 None
+Devil1 1 FireRay 10 BurningRay
+Devil2 1 FireRay 10 BurningRay
+Devil3 1 FireRay 10 BurningRay
+Devil4 1 FireRay 10 BurningRay
+
+Rocky0 1 None
+Rocky1	1	Tackle	5	RockThrow	11	BullRush	15	Harden	22	GroundPound	29	BodySlam 35 Avalanche
+Rocky2	1	Tackle	6	RockThrow	13	BullRush	18	Harden	26	GroundPound	34	BodySlam 42 Avalanche
+Rocky3	1	Tackle	7	RockThrow	15	BullRush	21	Harden	31	GroundPound	40	BodySlam 50 Avalanche
+Rocky4	1	Tackle	8	RockThrow	18	BullRush	25	Harden	37	GroundPound	48	BodySlam 60 Avalanche
+Rocky5	1	Tackle	9	RockThrow	21	BullRush	30	Harden	44	GroundPound	57	BodySlam 72 Avalanche
+
+Stumps0 1 None
+Stumps1 1 Tackle 1 BullRush 1 BodySlam
+Stumps2 1 Tackle 1 BullRush 1 BodySlam
+Stumps3 1 Tackle 1 BullRush 1 BodySlam
+Stumps4 1 Tackle 1 BullRush 1 BodySlam
+
+Frost0 1 None
+Frost1 1 Tackle 1 BullRush 1 BodySlam
+Frost2 1 Tackle 1 BullRush 1 BodySlam
+Frost3 1 Tackle 1 BullRush 1 BodySlam
+Frost4 1 Tackle 1 BullRush 1 BodySlam
+
+91 1 Tackle
+
+Testy 1 CripplingRay 1 RapidSlash
+
+Blanky0 1 None

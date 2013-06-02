@@ -1,0 +1,135 @@
+GROUPNAME SUBNUM UNIT LEVEL NATURE ENABLEDABILS
+Tester Rocky    Rocky1   10 - - 0 1 2 3
+Tester Beholder Behold1  10 - - 0 1 2 3
+Tester Bunny    Bunny1   10 - - 0 1 2 3
+Tester Stumps   Stumps1  10 - - 0 1 2 3
+Tester Angel    Angel1   10 - - 0 1 2 3
+Tester Spikey   Spikey1  10 - - 0 1 2 3
+Tester Devil    Devil1   10 - - 0 1 2 3
+Tester Testy    Testy    10 - - 0 1 2 3
+Tester MaxB2    Bunny4   45 - - 0 1 2 3
+Tester MaxB     Behold5  45 - - 4 5 6 7
+Tester MaxS     Stumps4  45 - - 0 1 2 3
+Tester 91 91 50 - - 0 1 2 3
+
+Collector Lv05 Bunny1 6 OFF STA 0 1 2 3
+Collector Lv05 Bunny1 5 STA SPE 0 1 2 3
+Collector Lv05 Rocky0 4 DEF OFF 0 1 2 3
+
+Collector Lv10 Bunny1  12 OFF STA 0 1 2 3
+Collector Lv10 Bunny1  11 STA SPE 0 1 2 3
+Collector Lv10 Rocky1  10 DEF OFF 0 1 2 3
+Collector Lv10 Behold1 7  CON OFF 0 1 2 3
+
+Collector Lv20 Bunny2  24 OFF STA 0 1 2 3
+Collector Lv20 Bunny2  22 STA SPE 0 1 2 3
+Collector Lv20 Rocky2  19 DEF OFF 0 1 2 3
+Collector Lv20 Behold1 15 CON OFF 0 1 2 3
+
+Collector Lv30 Bunny3  35 OFF STA 0 1 2 3
+Collector Lv30 Bunny2  32 STA SPE 0 1 2 3
+Collector Lv30 Rocky2  29 DEF OFF 0 1 2 3
+Collector Lv30 Behold2 28 CON OFF 0 1 2 3
+Collector Lv30 Angel2  26 CON OFF 0 1 2 3
+
+Collector Lv40 Bunny3  48 OFF STA 0 1 2 3
+Collector Lv40 Bunny3  42 STA SPE 0 1 2 3
+Collector Lv40 Rocky3  37 DEF OFF 0 1 2 3
+Collector Lv40 Behold3 37 CON OFF 0 1 2 3
+Collector Lv40 Angel3  36 CON OFF 0 1 2 3
+
+Collector Lv50 Bunny4  56 OFF STA 0 1 2 3
+Collector Lv50 Bunny4  53 STA SPE 0 1 2 3
+Collector Lv50 Rocky4  49 DEF OFF 0 1 2 3
+Collector Lv50 Behold4 46 CON OFF 0 1 2 3
+Collector Lv50 Angel3  46 CON OFF 0 1 2 3
+
+Hippie Lv05 Stumps1 6 CON OFF 0 1 2 3
+Hippie Lv05 Bunny1  5 DEF SPD 0 1 2 3
+Hippie Lv05 Stumps0 4 OFF STA 0 1 2 3
+
+Hippie Lv10 Stumps1 14 CON OFF 0 1 2 3
+Hippie Lv10 Bunny1  10 DEF SPD 0 1 2 3
+Hippie Lv10 Stumps1 8  OFF STA 0 1 2 3
+Hippie Lv10 Bunny1  8  SPD OFF 0 1 2 3
+
+Hippie Lv20 Stumps2 25 CON OFF 0 1 2 3
+Hippie Lv20 Bunny2  23 DEF SPD 0 1 2 3
+Hippie Lv20 Stumps2 19 OFF STA 0 1 2 3
+Hippie Lv20 Bunny2  18 SPD OFF 0 1 2 3
+Hippie Lv20 Stumps1 15 DEF CON 0 1 2 3
+
+Hippie Lv30 Stumps3 37 CON OFF 0 1 2 3
+Hippie Lv30 Bunny2  33 DEF SPD 0 1 2 3
+Hippie Lv30 Stumps2 28 OFF STA 0 1 2 3
+Hippie Lv30 Bunny2  27 SPD OFF 0 1 2 3
+Hippie Lv30 Stumps2 25 DEF CON 0 1 2 3
+
+Hippie Lv40 Stumps4 48 CON OFF 0 1 2 3
+Hippie Lv40 Bunny3  42 DEF SPD 0 1 2 3
+Hippie Lv40 Stumps3 37 OFF STA 0 1 2 3
+Hippie Lv40 Bunny3  37 SPD OFF 0 1 2 3
+Hippie Lv40 Stumps3 36 DEF CON 0 1 2 3
+
+Hippie Lv50 Stumps4 55 CON OFF 0 1 2 3
+Hippie Lv50 Bunny4  53 DEF SPD 0 1 2 3
+Hippie Lv50 Stumps4 51 OFF STA 0 1 2 3
+Hippie Lv50 Bunny3  47 SPD OFF 0 1 2 3
+Hippie Lv50 Stumps4 46 DEF CON 0 1 2 3
+
+Ranger Lv05 Behold1 6 OFF SPD 0 1 2 3
+Ranger Lv05 Behold1 5 SPD DEF 0 1 2 3
+Ranger Lv05 Behold0 4 OFF DEF 0 1 2 3
+
+Ranger Lv10 Behold1 12 OFF SPD 0 1 2 3
+Ranger Lv10 Behold1 10 SPD DEF 0 1 2 3
+Ranger Lv10 Behold1 9 OFF DEF 0 1 2 3
+Ranger Lv10 Rocky1  9 STA OFF 0 2 3 4
+
+Ranger Lv20 Behold2 23 OFF SPD 0 1 2 3
+Ranger Lv20 Behold2 21 SPD DEF 0 1 2 3
+Ranger Lv20 Behold2 19 OFF DEF 0 1 2 3
+Ranger Lv20 Behold2 19 DEF STA 0 1 2 3
+Ranger Lv20 Rocky1  18 STA OFF 0 2 3 4
+
+Ranger Lv30 Behold3 35 OFF SPD 0 1 2 3
+Ranger Lv30 Behold3 32 SPD DEF 0 1 2 3
+Ranger Lv30 Behold3 31 OFF DEF 0 1 2 3
+Ranger Lv30 Behold2 27 DEF STA 0 1 2 3
+Ranger Lv30 Rocky2  25 STA OFF 0 2 3 4
+
+Ranger Lv40 Behold4 45 OFF SPD 0 1 2 3
+Ranger Lv40 Behold4 43 SPD DEF 0 1 2 3
+Ranger Lv40 Behold4 39 OFF DEF 0 1 2 3
+Ranger Lv40 Behold3 37 DEF STA 0 1 2 3
+Ranger Lv40 Rocky3  36 STA OFF 0 2 3 4
+
+Ranger Lv50 Behold5 54 OFF SPD 0 1 2 3
+Ranger Lv50 Behold5 52 SPD DEF 0 1 2 3
+Ranger Lv50 Behold4 49 OFF DEF 0 1 2 3
+Ranger Lv50 Behold4 49 DEF STA 0 1 2 3
+Ranger Lv50 Rocky4  46 STA OFF 0 2 3 4
+
+Outlander Lv05 Spikey1 5 OFF SPD 0 1 2 3
+Outlander Lv05 Frost1  6 OFF SPD 0 1 2 3
+Outlander Lv05 Beholde 4 OFF SPD 0 1 2 3
+
+Outlander Lv10 Spikey2 11 OFF SPD 0 1 2 3
+Outlander Lv10 Frost1  10 OFF SPD 0 1 2 3
+Outlander Lv10 Behold1 10 OFF SPD 0 1 2 3
+
+Outlander Lv20 Spikey2 23 OFF SPD 0 1 2 3
+Outlander Lv20 Frost2  22 OFF SPD 0 1 2 3
+Outlander Lv20 Behold2 23 OFF SPD 0 1 2 3
+
+Outlander Lv30 Spikey3 35 OFF SPD 0 1 2 3
+Outlander Lv30 Frost3  34 OFF SPD 0 1 2 3
+Outlander Lv30 Behold3 32 OFF SPD 0 1 2 3
+
+Outlander Lv40 Spikey4 40 OFF SPD 0 1 2 3
+Outlander Lv40 Frost4  47 OFF SPD 0 1 2 3
+Outlander Lv40 Behold3 36 OFF SPD 0 1 2 3
+
+Outlander Lv50 Spikey5 55 OFF SPD 0 1 2 3
+Outlander Lv50 Frost4  58 OFF SPD 0 1 2 3
+Outlander Lv50 Behold5 55 OFF SPD 0 1 2 3

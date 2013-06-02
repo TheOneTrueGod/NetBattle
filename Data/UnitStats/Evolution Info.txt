@@ -1,0 +1,3 @@
+STAT - Required value for this stat in order for the unit to evolve.
+UNIT	OFF	DEF	CON	STA	SPE
+Fighter	100	100	100	100	100

@@ -1,0 +1,61 @@
+UNIT	PIC	STATE	OFF	DEF	CON	STA	SPE	SIZE	CLASS	EGG
+Spikey0	Spikey	0	1	1	1	1	1	9	Egg	None
+Spikey1	Spikey	1	52	80	62	42	60	15	Tank	Spikey0
+Spikey2	Spikey	2	74	82	68	58	65	19	Tank	Spikey0
+Spikey3	Spikey	3	96	84	74	74	70	27	Tank	Spikey0
+Spikey4	Spikey	4	118	86	80	90	75	27	Tank	Spikey0
+Spikey5	Spikey	5	140	88	86	106	80	27	Tank	Spikey0
+
+Bunny0	Bunny	0	1	1	1	1	1	9	Egg	None
+Bunny1	Bunny	1	70	50	40	60	80	14	Heal	Bunny0
+Bunny2	Bunny	2	86	56	50	76	96	18	Heal	Bunny0
+Bunny3	Bunny	3	103	63	60	93	113	23	Heal	Bunny0
+Bunny4	Bunny	4	120	70	70	110	130	25	Heal	Bunny0
+
+Angel0	Angel	0	1	1	1	1	1	9	Egg	None
+Angel1	Angel	1	30	40	60	100	70	15	Heal	Angel0
+Angel2	Angel	2	37	44	71	124	90	19	Heal	Angel0
+Angel3	Angel	3	44	48	82	148	110	19	Heal	Angel0
+Angel4	Angel	4	51	52	93	172	130	29	Heal	Angel0
+
+UNIT	PIC	STATE	OFF	DEF	CON	STA	SPE	SIZE	CLASS	EGG
+Behold0	Beholde	0	1	1	1	1	1	9	Egg	None
+Behold1	Beholde	1	85	40	40	85	50	11	Ranger	Behold0
+Behold2	Beholde	2	102	46	46	101	55	14	Ranger	Behold0
+Behold3	Beholde	3	119	52	52	117	60	19	Ranger	Behold0
+Behold4	Beholde	4	136	58	58	133	65	20	Ranger	Behold0
+Behold5	Beholde	5	153	64	64	149	70	22	Ranger	Behold0
+
+Devil0	Devil	0	1	1	1	1	1	9	Egg	None
+Devil1	Devil	1	70	50	50	70	60	15	Ranger	Devil0
+Devil2	Devil	2	87	60	60	87	73	15	Ranger	Devil0
+Devil3	Devil	3	104	70	70	104	86	12	Ranger	Devil0
+Devil4	Devil	4	121	80	80	121	99	37	Ranger	Devil0
+
+Rocky0	Rocky	0	1	1	1	1	1	9	Egg	None
+Rocky1	Rocky	1	30	100	70	60	40	11	Tank	Rocky0
+Rocky2	Rocky	2	40	120	85	65	40	20	Tank	Rocky0
+Rocky3	Rocky	3	50	140	100	70	40	23	Tank	Rocky0
+Rocky4	Rocky	4	60	160	115	75	40	29	Tank	Rocky0
+Rocky5	Rocky	5	70	180	130	80	40	36	Tank	Rocky0
+
+Frost0 Frost 0 1 1 1 1 1 11 Egg None
+Frost1 Frost 1 60 60 60 60 60 11 Tank Frost0
+Frost2 Frost 2 70 70 70 70 70 17 Tank Frost0
+Frost3 Frost 3 80 80 80 80 80 19 Tank Frost0
+Frost4 Frost 4 100 100 100 100 100 23 Tank Frost0
+
+Stumps0	Stumps	0	01	01	01	01	01	9	Egg	None
+Stumps1	Stumps	1	50	50	100	70	30	14	Tank	Stumps0
+Stumps2	Stumps	2	63	63	127	83	30	19	Tank	Stumps0
+Stumps3	Stumps	3	76	77	154	96	30	20	Tank	Stumps0
+Stumps4	Stumps	4	89	91	181	109	30	28	Tank	Stumps0
+
+91 91 0 200 200 200 200 200 60 Tank None
+
+Blanky0	Blanky	0	1	1	1	1	1	9	Egg	None
+Blanky1	Blanky	0	100	100	100	100	100	15	Egg	None
+
+Testy	Blanky	1	1	1000	1000	1000	200	29	Tank	None
+
+UNIT	PIC	STATE	OFF	DEF	CON	STA	SPE	SIZE	CLASS	EGG

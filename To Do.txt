@@ -1,0 +1,10 @@
+- "Box Pen"
+- Buffs (Have the "GetStat" methods return a value influenced by buffs)
+- Debuffs
+- Summoning
+- Saving
+- Loading
+- More abilities
+- Staged Battles
+- Exp
+- Evolution

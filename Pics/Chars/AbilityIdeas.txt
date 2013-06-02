@@ -1,0 +1,67 @@
+************Rocky**************
+----ATTACKS----
+Tackle (20 Dmg)
+Bull Rush (20 Dmg, Stuns, Knockback)
+Rock Throw (40 Dmg, Ranged)
+Beatdown (60 Dmg, moderate cooldown)
+Charge (Run towards them.  Stuns and 20 damage.  Must have charging room.)
+Rock Wave (Throws rocks at all enemies in an arc in front of you)
+Slam (Heavy Damage)
+Ground Pound (Damage to everyone around self, knockback)
+Spin Attack (Damages and stuns everyone around them)
+
+----BUFFS----
+Stone Defense (+1 Def)
+Perfect Defense (Nullifies damage.  Stuck doing nothing for a while when it wears off)
+Rock Shield (Causes rocks to spin around self, damaging nearby enemies for a little while.)
+
+----OTHER----
+Taunt (Enrages (Short time))
+Large Target (Enrage (Long time))
+Avalanche (Pulls enemies towards self for a while, dealing damage.  Enrages)
+
+************Beholder**************
+
+----Attacks----
+Tackle (Damage)
+Eye of Fire  (Damage.  Low recover time, long cooldown)
+Eye of Frost (Same as fire)
+Eye of Shock (Same as fire)
+Eye of Pain (Same as fire)
+Ultimate Eye (High damage, longer recover time, long cooldown)
+Eyes of Chaos (Shoot 4 closest targets, one with fire, frost, shock, and pan.)
+Firey Gaze (Area of effect attack)
+
+----OTHER----
+Icy Gaze (Area of effect slow + minor damage)
+Shock Gaze (Area of effect chance of stun + minor damage)
+Eye of Terror (Causes target to run away)
+Eye of Sleep (Puts target to sleep)
+Eye of Immolation (Sets target on fire for a while)
+
+**********Angel*********
+-----Attacks-----
+Lance of Light (bit of damage)
+Photon (medium damage, fast cast)
+Light Bolts (bit of damage to several targets)
+Retribution (debuff -- damages them whenever they use an ability)
+
+-----Buffs-----
+Might (Off +)
+Shield of Hope (Temporary HP)
+Protection (Def +)
+
+-----Other-----
+First Aid (Small heal)
+Heal (Medium Heal)
+Healing Circle (Think Tales of Symphonia)
+Holy Aura (Heals all allies a small amount every once in a while.)
+Mass Heal (Heals all allies a fair amount)
+Superior Heal (Heals a large amount)
+Recussitation (Heals to full)
+Restoration (Heals a very large amount)
+Dispel (Remove magical ailment)
+Remedy (Remove physical ailment)
+
+***************OTHER INFO*******************
+"Chance of stun" is based on offense vs endurance. (use a funky formula)
